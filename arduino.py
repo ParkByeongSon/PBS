@@ -14,5 +14,6 @@ while True :
 
     data = np.asarray(cap_value).reshape(1,5)
     sns.heatmap(data, vmin=-200, vmax=1000)
-    plt.title('Heatmap of 1x5 Array_Cap', fontsize=20)
+    plt.title('^^lwkg Heatmap of 1x5 Array_Cap', fontsize=20)
     plt.show()
+    
